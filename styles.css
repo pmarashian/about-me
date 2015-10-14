@@ -108,6 +108,9 @@ p > span:hover {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
+  /*
+  *  Used http://css3generator.com/ for the proper box-shadow formatting.
+  */
   -webkit-box-shadow: 0 0 3px 0 #aeaeae;
   box-shadow: 0 0 3px 0 #aeaeae;
 }
